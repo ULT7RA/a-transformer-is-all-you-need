@@ -6,6 +6,7 @@
 **Contact:** prometheansystems@proton.me · +1 (720) 449-6984
 **Published:** June 2026
 **DOI:** [10.5281/zenodo.20906442](https://doi.org/10.5281/zenodo.20906442)
+**Discussion:** [Hacker News](https://news.ycombinator.com/item?id=48683470)
 **License:** [CC BY 4.0](LICENSE)
 
 ---
